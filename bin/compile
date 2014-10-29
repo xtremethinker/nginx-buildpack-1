@@ -65,3 +65,5 @@ cp $compile_buildpack_bin/boot.sh .
 # ------------------------------------------------------------------------------------------------
 echo "vamsee Crap"
 ls
+echo $(pwd)
+curl --remote-name https://farm4.staticflickr.com/3950/15468478187_361614e523.jpg
